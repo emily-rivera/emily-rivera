@@ -13,7 +13,7 @@ When I'm not fenangling with flexbox or battling recursive functions, you can pr
 
 When I am developing, I use the following technologies:
 
-![HTML]()
+![HTML](./assets/images/html5-brands.svg)
 
 <p> Projects I want to show you: </p>
 
