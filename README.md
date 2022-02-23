@@ -11,9 +11,17 @@ When I'm not fenangling with flexbox or battling recursive functions, you can pr
 - 🏕️ Camping with my husband & dogs
 - 🎨 Crafting something special
 
-When I am developing, I use the following technologies:
+I use the following technologies to develop cool things:
 
-![HTML](./assets/images/html5-brands.svg)
+<span><img height="30" src="./assets/images/html5-brands.svg"></span>
+<span><img height="30" src="./assets/images/html5-brands.svg"></span>
+<span><img height="30" src="./assets/images/html5-brands.svg"></span>
+<span><img height="30" src="./assets/images/html5-brands.svg"></span>
+<span><img height="30" src="./assets/images/html5-brands.svg"></span>
+<span><img height="30" src="./assets/images/html5-brands.svg"></span>
+<span><img height="30" src="./assets/images/html5-brands.svg"></span>
+<span><img height="30" src="./assets/images/html5-brands.svg"></span>
+
 
 <p> Projects I want to show you: </p>
 
