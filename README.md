@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hey! I'm so glad you're here!
 
-<!--
-**emily-rivera/emily-rivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Emily](https://emily-rivera.tech/), a ***web designer*** & ***full-stack developer*** based in ***Salt Lake City, UT***.
 
-Here are some ideas to get you started:
+<!-- [<img align="left" alt="Emily Rivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not fenangling with flexbox or battling recursive functions, you can probably find me:
+
+- 🛼 Rollerskating to my favorite songs
+- 🕹️ Fighting monsters or solving puzzles in a video game
+- 🏕️ Camping with my husband & dogs
+- 🎨 Crafting something special
+
+When I am developing, I use the following technologies:
+
+![HTML]()
+
+<p> Projects I want to show you: </p>
+
+<!-- - 🔭 I’m currently working on 50/50 Database Site
+- 🌱 I’m currently learning AWS
+- 💬 Ask me about web design + development!
+- 📫 How to reach me: emily-rivera.tech
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to rollerskate! 🛼 -->
+
+[website]: https://emily-rivera.tech/
+[linkedin]: https://www.linkedin.com/in/emily-rivera-75ba6a232/
+[dribbble]: https://dribbble.com/emily-rivera
+[github]: https://github.com/emily-rivera
