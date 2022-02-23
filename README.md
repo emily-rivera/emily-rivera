@@ -4,7 +4,7 @@ I'm [Emily](https://emily-rivera.tech/), a ***web designer*** & ***full-stack de
 
 <!-- [<img align="left" alt="Emily Rivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
-When I'm not fenangling with flexbox or battling recursive functions, you can probably find me:
+When I'm not finagling with flexbox or battling recursive functions, you can probably find me:
 
 - 🛼 Rollerskating to my favorite songs
 - 🕹️ Fighting monsters or solving puzzles in a video game
