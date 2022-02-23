@@ -13,13 +13,13 @@ When I'm not fenangling with flexbox or battling recursive functions, you can pr
 
 I enjoy using the following technologies to develop cool things:
 
-<span><img height="30" src="./assets/images/html5.svg"></span>
+<span><img height="30" src="assets/images/html5.svg"></span>
 <span><img height="30" src="./assets/images/css3.svg"></span>
 <span><img height="30" src="./assets/images/js.svg"></span>
 <span><img height="30" src="./assets/images/php.svg"></span>
 <span><img height="30" src="./assets/images/python.svg"></span>
 <span><img height="30" src="./assets/images/react.svg"></span>
-<span><img height="30" src="./assets/images/vuejs.svg"></span>
+<span><img height="30" src="./assets/images/react.svg"></span>
 
 <p> Projects I want to show you: </p>
 
