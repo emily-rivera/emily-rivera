@@ -11,14 +11,17 @@ When I'm not finagling with flexbox or battling recursive functions, you can pro
 
 I enjoy using the following technologies to develop cool things:
 
-<span><img height="30" src="./assets/images/html5.svg"></span>
-<span><img height="30" src="./assets/images/css3.svg"></span>
-<span><img height="30" src="./assets/images/js.svg"></span>
-<span><img height="30" src="./assets/images/php.svg"></span>
-<span><img height="30" src="./assets/images/python.svg"></span>
-<span><img height="30" src="./assets/images/react.svg"></span>
+![HTML](./assets/images/html.svg)
+![CSS](./assets/images/css.svg)
+![JavaScript](./assets/images/js.svg)
+![C++](./assets/images/cplusplus.svg)
+![Python](./assets/images/python.svg)
+![MongoDB](./assets/images/mongodb.svg)
+![MySQL](./assets/images/mysql.svg)
+![VueJS](./assets/images/vuejs.svg)
+![React](./assets/images/react.svg)
 
-<p>Projects I'm proud of: </p>
+Recent Projects:
 
 <!-- - 🔭 I’m currently working on 50/50 Database Site
 - 🌱 I’m currently learning AWS
