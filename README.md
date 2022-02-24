@@ -1,12 +1,10 @@
 # Hey! I'm so glad you're here!
 
-I'm [Emily](https://emily-rivera.tech/), a ***web designer*** & ***full-stack developer*** based in ***Salt Lake City, UT***.
-
-<!-- [<img align="left" alt="Emily Rivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+I'm [Emily](https://emily-rivera.tech/), a **web designer** & **full-stack developer** based in **Salt Lake City, UT**.
 
 When I'm not finagling with flexbox or battling recursive functions, you can probably find me:
 
-- 🛼 Rollerskating to my favorite songs
+- 🎵 Rollerskating to my favorite songs
 - 🕹️ Fighting monsters or solving puzzles in a video game
 - 🏕️ Camping with my husband & dogs
 - 🎨 Crafting something special
@@ -18,7 +16,6 @@ I enjoy using the following technologies to develop cool things:
 <span><img height="30" src="./assets/images/js.svg"></span>
 <span><img height="30" src="./assets/images/php.svg"></span>
 <span><img height="30" src="./assets/images/python.svg"></span>
-<span><img height="30" src="./assets/images/react.svg"></span>
 <span><img height="30" src="./assets/images/react.svg"></span>
 
 <p>Projects I'm proud of: </p>
