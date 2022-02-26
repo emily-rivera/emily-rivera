@@ -1,6 +1,6 @@
 # Hey! I'm so glad you're here!
 
-I'm [Emily](https://emily-rivera.tech/), a **web designer** & **full-stack developer** based in **Salt Lake City, UT**.
+I'm ***Emily***, a **web designer** & **full-stack developer** based in **Salt Lake City, UT**.
 
 When I'm not finagling with flexbox or battling recursive functions, you can probably find me:
 
