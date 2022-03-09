@@ -1,0 +1,57 @@
+// Custom styles to override Bootstrap go here
+body {
+    max-height: 100vh;
+    overflow: hidden;
+    background-color: rgb(243, 232, 253) !important;
+}
+
+#mainArea {
+    background-color: #8EC5FC;
+    background-image: linear-gradient(45deg, #8EC5FC 15%, #E0C3FC 44%, #ffffff 80%);
+}
+
+.min-sym {
+    display: inline-block;
+    width: 20px;
+    border-bottom: 2.5px solid black;
+    border-radius: 2px;
+}
+
+.max-sym {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 2.5px solid black;
+    border-radius: 2px;
+}
+
+.close-sym {
+    display: inline-block;
+    font-size: 35px;
+    font-weight: 300;
+    line-height: 0;
+}
+
+.load-bar {
+    display: block;
+    position: relative;
+    min-height: 55px;
+    max-height: 65px;
+    max-width: 510px;
+    border-radius: 3px;
+}
+
+.load-1 {
+    background-color: rgb(32, 32, 32);
+    display: inline-block;
+    border-radius: 3px;
+    height: 50px;
+    width: 25px;
+}
+
+// Colors
+
+// Borders
+
+// IMPORT BOOTSTRAP 5
+@import "../node_modules/bootstrap/scss/bootstrap.scss"

@@ -1,0 +1,11 @@
+@use '../custom' as *;
+
+.load-blink {
+    animation: blink-animation 1s steps(3, start) infinite;
+}
+
+@keyframes blink-animation {
+    to {
+        visibility: hidden;
+    }
+}

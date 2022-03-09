@@ -1,0 +1,23 @@
+@use '../custom' as *;
+
+.h-name {
+    font-family: acumin-pro-wide, sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 1.5px;
+}
+
+.load-title {
+    font-family: ocr-a-std, monospace;
+    text-transform: uppercase;
+}
+  
+.title-1, .title-2 {
+    font-family: acumin-pro-wide, sans-serif;
+    text-transform: uppercase;
+}
+
+.title-1 {
+    font-style: italic;
+}

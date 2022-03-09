@@ -1,0 +1,9 @@
+// Main styles go here
+
+// Import custom styles
+@use 'custom';
+
+// Import components
+@use 'components/animations';
+@use 'components/mixins';
+@use 'components/typography';
