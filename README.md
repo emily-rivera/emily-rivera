@@ -21,7 +21,7 @@ I enjoy using the following technologies to develop cool things:
 ![VueJS](./assets/images/vuejs.svg)
 ![React](./assets/images/react.svg)
 
-Recent Projects:
+See My Recent Projects Below!
 
 <!-- - 🔭 I’m currently working on 50/50 Database Site
 - 🌱 I’m currently learning AWS
