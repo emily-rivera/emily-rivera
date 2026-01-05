@@ -23,8 +23,7 @@ I enjoy using the following technologies to develop cool things:
 
 Check out my Shopify certifications:
 
-<img src="./assets/images/liquid-storefronts-for-theme-developers.png" alt="Liquid Storefronts for Theme Developers Badge" width="200"/>
-<img src="./assets/images/developing-apps-for-shopify.png" alt="Developing Apps for Shopify Badge" width="200"/>
+<img src="./assets/images/liquid-storefronts-for-theme-developers.png" alt="Liquid Storefronts for Theme Developers Badge" width="300"/> <img src="./assets/images/developing-apps-for-shopify.png" alt="Developing Apps for Shopify Badge" width="300"/>
 
 See My Recent Projects Below!
 
