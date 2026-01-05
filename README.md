@@ -22,8 +22,8 @@ I enjoy using the following technologies to develop cool things:
 ![React](./assets/images/react.svg)
 
 Check out my Shopify certifications:
-![Liquid Storefronts for Theme Developers](./assets/images/liquid-storefronts-for-theme-developers.png)
-![Developing Apps for Shopify](./assets/images/developing-apps-for-shopify.png)
+<img src="./assets/images/liquid-storefronts-for-theme-developers.png" alt="Liquid Storefronts for Theme Developers Badge" width="200"/>
+<img src="./assets/images/developing-apps-for-shopify.png" alt="Developing Apps for Shopify Badge" width="200"/>
 
 See My Recent Projects Below!
 
