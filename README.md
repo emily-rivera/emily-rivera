@@ -6,7 +6,7 @@ When I'm not finagling with flexbox or battling recursive functions, you can pro
 
 - 🎵 Rollerskating to my favorite songs
 - 🕹️ Fighting monsters or solving puzzles in a video game
-- 🏕️ Camping with my husband & dogs
+- 🏕️ Camping with my husband & our dog
 - 🎨 Crafting something special
 
 I enjoy using the following technologies to develop cool things:
@@ -21,14 +21,11 @@ I enjoy using the following technologies to develop cool things:
 ![VueJS](./assets/images/vuejs.svg)
 ![React](./assets/images/react.svg)
 
-See My Recent Projects Below!
+Check out my Shopify certifications:
+![Liquid Storefronts for Theme Developers](./assets/images/badges/liquid-storefronts-for-theme-developers.png)
+![Developing Apps for Shopify](./assets/images/badges/developing-apps-for-shopify.png)
 
-<!-- - 🔭 I’m currently working on 50/50 Database Site
-- 🌱 I’m currently learning AWS
-- 💬 Ask me about web design + development!
-- 📫 How to reach me: emily-rivera.tech
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to rollerskate! 🛼 -->
+See My Recent Projects Below!
 
 [website]: https://emily-rivera.tech/
 [linkedin]: https://www.linkedin.com/in/emily-rivera-75ba6a232/
